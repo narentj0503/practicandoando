@@ -7,6 +7,7 @@ print("la indicacion de este juego es la siguiente:")
 print("Tienes que adivinar el numero que hemos pensado, esta en un rango de 1 a 30")
 print("Para ello tienes 5 vidas o 5 intentos")
 print("¡mucha Suerte! :D ")
+print("¡mucha Suerte! :D :D ")
 
 vidas=5
 
